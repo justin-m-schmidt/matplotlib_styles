@@ -6,7 +6,7 @@
 # http://colorbrewer2.org/#type=qualitative&scheme=Set1&n=8
 
 
-font.family : ['Source Sans Pro','sans-serif']
+plt.rcParams["font.family"] = ['Source Sans Pro', 'sans-serif']
 
 axes.facecolor : white
 axes.prop_cycle : cycler('color',['e41a1c', '377eb8', '4daf4a', '984ea3', 'ff7f00', 'ffff33', 'a65628', 'f781bf'])
