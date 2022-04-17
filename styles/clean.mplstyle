@@ -7,7 +7,6 @@
 
 font.family: sans-serif
 font.sans-serif: 'Source Sans Pro', 'Myriad Pro', Helvetica Neue, Helvetica, sans-serif
-font.weight: bold
 font.size: 12
 
 axes.facecolor : white
