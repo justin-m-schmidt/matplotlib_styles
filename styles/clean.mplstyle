@@ -15,10 +15,6 @@ axes.linewidth : 0.0
 axes.grid : True
 axes.labelweight: bold
 axes.titleweight: bold
-Axes.set_yticklabels: fontdict:{'fontsize': 8,
- 'fontweight': rcParams['axes.titleweight'],
- 'verticalalignment': 'baseline',
- 'horizontalalignment': loc}
 
 lines.linewidth : 1.5
 
